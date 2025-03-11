@@ -687,7 +687,7 @@
         "guidedMissileType": 0,
         "gunXModel": [
             "t7_vm_olympia",
-            "t7_vm_olympia_gold",
+            "",
             "",
             "",
             "",
@@ -1209,7 +1209,7 @@
         "worldShellEjectEffect": "shellejects/shotgun","",
         "worldXModel": [
             "t7_wm_olympia",
-            "t7_wm_olympia_gold",
+            "",
             "",
             "",
             "",
